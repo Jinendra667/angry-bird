@@ -1,2 +1,2 @@
-# angry-bird
-I created an angry bird game in visual studio.
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
